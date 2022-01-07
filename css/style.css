@@ -5,7 +5,7 @@ body {
     height: 400px;
     background-image:url(../img/portada.jpg);
     color: white;
-    background-size: 100%;
+    background-size: cover;
     background-position:center;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: darken;
