@@ -1,9 +1,9 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 2em;
 }
 
-h1 {
+p {
     font-style: italic;
     color: #373fff;
 }
