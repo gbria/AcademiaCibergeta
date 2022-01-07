@@ -1,6 +1,7 @@
 body {
     margin: 0em;
 }
+
 .cover {
     height: 400px;
     background-image:url(../img/portada.jpg);
@@ -12,7 +13,7 @@ body {
 }
 
 .cover-small {
-    height: 200px;
+    height: cover;
     background-blend-mode: normal;
 }
 
