@@ -1,6 +1,11 @@
 body {
     margin: 0em;
 }
- .cover {
-    color: brown;
-}
+.cover {
+    height: 400px;
+    background-image:url(../img/portada.jpg);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.30);
+    background-blend-mode: darken;
