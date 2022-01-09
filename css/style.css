@@ -21,6 +21,16 @@ img{
     background-blend-mode: darken;
 }
 
+.acercade {
+    height: 400px;
+    background-image:url(../img/academia.jpg);
+    color: white;
+    background-size: cover;
+    background-position:center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
+
 
 .cover-small {
     height: 300px;
