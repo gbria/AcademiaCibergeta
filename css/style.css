@@ -10,6 +10,8 @@ h1,h2,h3,h4,h5 {
 .card {
     margin-bottom: 5rem;
     min-width: 350px;
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
 }
 
 .card-footer {
@@ -28,8 +30,6 @@ section{
     padding: 5rem;
     margin-left: 10rem;
     margin-right: 10rem;
-
-    
 }
 
 .col{
@@ -62,10 +62,6 @@ section{
     background-blend-mode: normal;
 }
 
-.card {
-    border: 0 !important;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
-}
 
 .card-title {
     min-height: 2rem;
