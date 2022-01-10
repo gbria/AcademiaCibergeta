@@ -7,8 +7,13 @@ h1,h2,h3,h4,h5 {
     font-family: 'Fjalla One', sans-serif;
 }
 
+.navbar {
+    color: white;
+}
+
 .container {
     margin-top: 5rem;
+    margin-bottom: 5rem;
 }
 
 .card {
