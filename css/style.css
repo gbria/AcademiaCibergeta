@@ -47,43 +47,18 @@ h1,h2,h3,h4,h5 {
 
 
 
-.container {
-    margin-top: 5rem;
-    margin-bottom: 5rem;
-}
-
-
-
-
-.teacher {
-    margin-left: 30px;
-    height: 400px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
-}
-
-
-.col{
-    min-width: 350px;
-}
 
 
 
 
 
-.cover-small {
-    height:300px;
-    background-blend-mode: normal;
-}
 
 
-.card-title {
-    min-height: 2rem;
-}
 
-.card-text {
 
-    min-height: 9rem;
-}
+
+
+
 
 .students-stripe {
     overflow-x: scroll;
