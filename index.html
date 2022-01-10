@@ -20,6 +20,7 @@
 
 <body>
     <header>
+        <!--Barra de navegacion-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">Academia Cibergeta</a>
@@ -40,53 +41,44 @@
             </div>
         </nav>
 
-
-
-
-
-
-
-
-        <div class="cover d-flex justify-content-center align-items-center
-        flex-column">
+        <!--Portada de la web - centrada en horizontal, vertical, mostrada en columnas "un elemento debajo del otro" 
+        y un padding de 5rem-->
+        <div class="cover portada d-flex justify-content-center align-items-center flex-column"
+            title="persona escribiendo en un ordenador portatil">
             <h1>
                 Academia Cibergeta
             </h1>
-
             <p>
                 Prepárate para el futuro digital
             </p>
-            <button class="btn btn-primary">
+            <button class="btn btn-warning" id="cursos">
                 Conoce nuestros cursos
             </button>
         </div>
     </header>
+
     <!--Cards de los cursos-->
     <section>
-        <div class="container">
+        <div class="container mt-5 mb-5">
             <div class="row justify-content-center" id="cursos">
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
-                        <img src="img/html.jpg" class="card-img-top" title="Imagen de un monitor con código Java"
-                            alt="Imagen de un monitor con código Java" />
+                        <img src="img/html.jpg" class="card-img-top" alt="Imagen de un monitor con código Java" />
                         <div class="card-body">
                             <h4 class="card-title">HTML y CSS</h4>
                             <p class="card-text">
                                 En este curso aprenderemos gratis a maquetar sitios Web con HTML5 y a
-                                brindar estilos con CSS.
-
-                                No necesitas conocimientos previos, pues empezaremos desde cero
+                                brindar estilos con CSS. No necesitas conocimientos previos, pues empezaremos desde cero
                                 con una serie de ejemplos prácticos y al término del curso, desarrollaremos un proyecto
                                 real en el cual aplicaremos todo lo aprendido
                             </p>
-                            <a href="#" class="btn btn-primary">más info</a>
+                            <a href="#" class="btn btn-warning">más info</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
-                        <img src="img/database.jpg" title="Hombre dibujando un diagrama de una base de datos"
-                            alt="Hombre dibujando un diagrama de una base de datos" />
+                        <img src="img/database.jpg" alt="Hombre dibujando un diagrama de una base de datos" />
                         <div class="card-body">
                             <h4 class="card-title">Bases de datos</h4>
                             <p class="card-text">Aprende a gestionar bases de datos a través de uno de los manejadores
@@ -94,14 +86,13 @@
                                 las Bases de Datos hasta su implementación, pasando por el conocimiento del lenguaje
                                 estándar SQL
                             </p>
-                            <a href="#" class="btn btn-primary">más info</a>
+                            <a href="#" class="btn btn-warning">más info</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
-                        <img src="img/codigo.jpg" class="card-img-top" title="Imagen de un monitor con codigo Java"
-                            alt="Imagen de un monitor con codigo Java" />
+                        <img src="img/codigo.jpg" class="card-img-top" alt="Imagen de un monitor con codigo Java" />
                         <div class="card-body">
                             <h4 class="card-title">Java</h4>
                             <p class="card-text">En el curso estaremos trabajando con las últimas novedades de JAVA
@@ -110,14 +101,13 @@
                                 paradigma de programación que cada día se vuelve más popular entre los
                                 desarrolladores
                             </p>
-                            <a href="#" class="btn btn-primary">más info</a>
+                            <a href="#" class="btn btn-warning">más info</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
                         <img src="img/office.jpg" class="card-img-top"
-                            title="Imagen de una persona trabajando con un portatil"
                             alt="Imagen de una persona trabajando con un portatil" />
                         <div class="card-body">
                             <h4 class="card-title">Microsoft Office</h4>
@@ -126,14 +116,13 @@
                                 las principales herramientas de ofimática. Con nuestros cursos de ofimática te
                                 convertirás en un experto en el dominio de todas estas herramientas
                             </p>
-                            <a href="#" class="btn btn-primary">más info</a>
+                            <a href="#" class="btn btn-warning">más info</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
                         <img src="img/autocad.jpg" class="card-img-top"
-                            title="Mujer trabajando con unos planos en dos dimensiones en el ordenador"
                             alt="Mujer trabajando con unos planos en dos dimensiones en el ordenador" />
                         <div class="card-body">
                             <h4 class="card-title">Autocad</h4>
@@ -142,14 +131,13 @@
                                 trabajar en el campo de la arquitectura, la mecánica o la ingeniería, entre otros
                                 aspectos
                             </p>
-                            <a href="#" class="btn btn-primary">más info</a>
+                            <a href="#" class="btn btn-warning">más info</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
                         <img src="img/python.jpg" class="card-img-top"
-                            title="Hombre estudiando programación desde un ordenador"
                             alt="Hombre estudiando programación desde un ordenador" />
                         <div class="card-body">
                             <h4 class="card-title">Python</h4>
@@ -158,7 +146,7 @@
                                 gran
                                 escala
                             </p>
-                            <a href="#" class="btn btn-primary">más info</a>
+                            <a href="#" class="btn btn-warning">más info</a>
                         </div>
                     </div>
                 </div>
@@ -169,10 +157,8 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <img src="img/teacher.svg"
-                        title="Ilustración de una profesora enseñando programación a un alumno" />
+                    <img src="img/teacher.svg" alt="Ilustración de una profesora enseñando programación a un alumno" />
                 </div>
-
                 <div class="col-12 col-sm-6">
                     <h3>
                         ¿Quieres más información sobre nuestros cursos?
