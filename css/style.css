@@ -1,6 +1,7 @@
 body {
     margin: 0em;
     font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
 }
 
 h1,h2,h3,h4,h5 {
@@ -10,15 +11,28 @@ h1,h2,h3,h4,h5 {
 .cover {
     height: 400px;
     background-image:url(../img/portada.jpg);
-    color: white;
+    color: whitesmoke;
     background-size: cover;
     background-position:center;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: darken;
 }
 
+.acercade {
+    height: 400px;
+    background-image:url(../img/academia.jpg);
+    color: whitesmoke;
+    background-size: cover;
+    background-position:center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
 
-
+.card {
+    background-color:whitesmoke;
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
+}
 
 
 
@@ -37,12 +51,7 @@ h1,h2,h3,h4,h5 {
     margin-bottom: 5rem;
 }
 
-.card {
-    margin-bottom: 5rem;
-    min-width: 350px;
-    border: 0 !important;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
-}
+
 
 
 .teacher {
@@ -57,15 +66,7 @@ h1,h2,h3,h4,h5 {
 }
 
 
-.acercade {
-    height: 400px;
-    background-image:url(../img/academia.jpg);
-    color: white;
-    background-size: cover;
-    background-position:center;
-    background-color: rgba(0, 0, 0, 0.5);
-    background-blend-mode: darken;
-}
+
 
 
 .cover-small {
