@@ -8,6 +8,11 @@ h1,h2,h3,h4,h5 {
     font-family: 'Fjalla One', sans-serif;
 }
 
+.title {
+    text-align: center;
+    padding: 2rem;
+}
+
 
 .cover {
     height: 400px;
