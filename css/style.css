@@ -7,9 +7,30 @@ h1,h2,h3,h4,h5 {
     font-family: 'Fjalla One', sans-serif;
 }
 
-.navbar {
+.cover {
+    height: 400px;
+    background-image:url(../img/portada.jpg);
     color: white;
+    background-size: cover;
+    background-position:center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .container {
     margin-top: 5rem;
@@ -23,11 +44,7 @@ h1,h2,h3,h4,h5 {
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
 }
 
-.card-footer {
-    padding: 0.0rem 0rem; 
-    background-color: rgba(0,0,0,.00); 
-    border-top: 1px solid rgba(0,0,0,.0); 
-}
+
 .teacher {
     margin-left: 30px;
     height: 400px;
@@ -39,15 +56,6 @@ h1,h2,h3,h4,h5 {
     min-width: 350px;
 }
 
-.cover {
-    height: 400px;
-    background-image:url(../img/portada.jpg);
-    color: white;
-    background-size: cover;
-    background-position:center;
-    background-color: rgba(0, 0, 0, 0.5);
-    background-blend-mode: darken;
-}
 
 .acercade {
     height: 400px;
