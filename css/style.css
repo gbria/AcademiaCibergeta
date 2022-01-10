@@ -24,7 +24,7 @@ h1,h2,h3,h4,h5 {
     background-blend-mode: darken;
 }
 
-.card-svg{
+.card-img{
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0), 0 2px 4px -1px rgba(0, 0, 0, 0) !important;
    
 }
@@ -50,10 +50,20 @@ h1,h2,h3,h4,h5 {
 }
 
 .card-text {
-    min-height: 14rem;
+    min-height: 15rem;
 }
 
+.academia{
+    width: 2%;
+    margin: 20px auto;
+    background-color: blue;
+    padding: 15px;
+}
 
+.acamedia img.imagen {
+    float: left;
+    margin-right: 15px;
+}
 
 
 
