@@ -20,28 +20,35 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-light bg-light">
-            <nav class="container-fluid">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
                 <a class="navbar-brand" href="#">Academia Cibergeta</a>
-
-                <ul class="nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">Inicio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#cursos">Cursos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#mapa">Ubicación</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="acercade.html">Acerca de</a>
-                    </li>
-                </ul>
-            </nav>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="d-flex flex-row bd-highlight">
+                    <div class="collapse navbar-collapse">
+                        <div class="navbar-nav">
+                            <a class="nav-link active" href="#">Inicio</a>
+                            <a class="nav-link" href="#cursos">Cursos</a>
+                            <a class="nav-link" href="#mapa">Ubicación</a>
+                            <a class="nav-link" href="/acercade.html">Acerca de</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </nav>
+
+
+
+
+
+
+
+
         <div class="cover d-flex justify-content-center align-items-center
-                flex-column">
+        flex-column">
             <h1>
                 Academia Cibergeta
             </h1>
@@ -57,10 +64,10 @@
     <!--Cards de los cursos-->
     <section>
         <div class="container">
-            <div class="row  row-cols-2 row-cols-md-3" id="cursos">
-                <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="row justify-content-center" id="cursos">
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
-                        <img src="img/html.jpg" title="Imagen de un monitor con código Java"
+                        <img src="img/html.jpg" class="card-img-top" title="Imagen de un monitor con código Java"
                             alt="Imagen de un monitor con código Java" />
                         <div class="card-body">
                             <h4 class="card-title">HTML y CSS</h4>
@@ -76,7 +83,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
                         <img src="img/database.jpg" title="Hombre dibujando un diagrama de una base de datos"
                             alt="Hombre dibujando un diagrama de una base de datos" />
@@ -91,7 +98,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
                         <img src="img/codigo.jpg" class="card-img-top" title="Imagen de un monitor con codigo Java"
                             alt="Imagen de un monitor con codigo Java" />
@@ -107,7 +114,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
                         <img src="img/office.jpg" class="card-img-top"
                             title="Imagen de una persona trabajando con un portatil"
@@ -123,7 +130,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
                         <img src="img/autocad.jpg" class="card-img-top"
                             title="Mujer trabajando con unos planos en dos dimensiones en el ordenador"
@@ -139,7 +146,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-2">
                     <div class="card">
                         <img src="img/python.jpg" class="card-img-top"
                             title="Hombre estudiando programación desde un ordenador"
