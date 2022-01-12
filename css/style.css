@@ -57,16 +57,9 @@ h1,h2,h3,h4,h5 {
     min-height: 10rem;
 }
 
-.academia{
-    width: 2%;
-    margin: 20px auto;
-    background-color: blue;
-    padding: 15px;
-}
 
-.acamedia img.imagen {
-    float: left;
-    margin-right: 15px;
+.imagen {
+   height: 300px;
 }
 
 
