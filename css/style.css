@@ -83,7 +83,7 @@ h1,h2,h3,h4,h5 {
 
 .responsive-iframe {
     position: relative;
-    padding: 100%;
+    padding: 25%;
 }
 
 .responsive-iframe iframe{
