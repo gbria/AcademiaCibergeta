@@ -9,7 +9,6 @@ h1,h2,h3,h4,h5 {
 }
 
 .title {
-    
     margin-bottom: 2rem;
 }
 
@@ -46,6 +45,7 @@ h1,h2,h3,h4,h5 {
 .card {
     background-color:whitesmoke;
     border: 0 !important;
+
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
 }
 
@@ -83,7 +83,7 @@ h1,h2,h3,h4,h5 {
 
 .responsive-iframe {
     position: relative;
-    padding: 25%;
+    padding: 100%;
 }
 
 .responsive-iframe iframe{
@@ -100,7 +100,7 @@ h1,h2,h3,h4,h5 {
 
 .slider-container {
     transform: translateX(0);
-    animation: slider 10s infinite;
+    animation: slider 20s infinite;
 }
 
 .image-container {
@@ -109,6 +109,14 @@ h1,h2,h3,h4,h5 {
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
+}
+
+.avatar {
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
 }
 
 @keyframes slider{
