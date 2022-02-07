@@ -6,18 +6,19 @@
         <link>https://gbria.github.io/cibergeta/</link>
         <description>Noticias de actualidad</description>
         <item>
-            <title>Noticia de actualidad 1</title>
-            <link>https://vandal.elespanol.com/noticia/1350751346/comparan-los-graficos-de-dying-light-2-en-ps4-ps4-pro-y-ps5/</link>
-            <description>El precio de las targetas gráficas</description>
+            <title>Ciclos formativos en IES Caparrella</title>
+            <link>http://iescaparrella.cat/ca/educacio/iescaparrella/fp-superior/t-3807</link>
+            <description>Cursos de informática en IES Caparrella</description>
         </item>
         <item>
-            <title>Noticia de actualidad 2</title>
-            <link>https://www.nvidia.com/es-es/geforce/</link>
-            <description>El precio de las targetas gráficas</description>
+            <title>Precio asequible en portátiles</title>
+            <img src="img/rss.jpg"/>
+            <link>https://www.hp.com/es-es/shop/product.aspx?id=348R9EA&opt=ABE&sel=NTB&lang=es-ES&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6nxOPEglci7PHqgBQegdDn_LhJq3F9XenphlLnljek57vBMv7-Gq3gaAqK3EALw_wcB&gclsrc=aw.ds</link>
+            <description>El precio de los portátiles hp</description>
         </item>
         <item>
-            <title>Noticia de actualidad 3</title>
-            <link>https://www.nvidia.com/es-es/geforce/</link>
+            <title>Se retrasan nuevamente las PS5</title>
+            <link>https://hipertextual.com/2020/06/ps5-precio-fecha-lanzamiento-playstation-5-retraso</link>
             <description>El precio de las targetas gráficas</description>
         </item>
     </channel>
