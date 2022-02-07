@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-<title>Mi canal de RSS</title>
-<link>https://gbria.github.io/cibergeta/</link>
-<description>Noticias de actualidad</description>
-<language>es</language>
-<item>
-<title>Noticia de actualidad 1</title>
-<link>https://www.nvidia.com/es-es/geforce/</link>
-<description>El precio de las targetas gráficas</description>
-</item>
-</channel>
+
+    <channel>
+        <title>Mi canal de RSS</title>
+        <link>https://gbria.github.io/cibergeta/</link>
+        <description>Noticias de actualidad</description>
+        <item>
+            <title>Noticia de actualidad 1</title>
+            <link>https://www.nvidia.com/es-es/geforce/</link>
+            <description>El precio de las targetas gráficas</description>
+        </item>
+    </channel>
 </rss>
