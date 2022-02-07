@@ -12,8 +12,11 @@
         </item>
         <item>
             <title>Precio asequible en portátiles</title>
-            <img src="http://cdn.mos.cms.futurecdn.net/LaVggwwPTqeK5tfNrzNESM.jpg"/>
-            <link>https://www.xataka.com/seleccion/este-portatil-hp-victus-bestia-para-trabajar-entretenimiento-su-procesador-grafica-a-100-euros-mediamarkt</link>
+            <image>
+                <url>http://www.w3cschool.cc/images/logo.gif</url>
+                <title>W3CSchool.com</title>
+                <link>http://www.w3cschool.cc</link>
+                </image>
             <description>El precio de los portátiles hp</description>
         </item>
         <item>
