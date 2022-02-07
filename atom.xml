@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+      <channel>
+          <title>Mi canal de RSS</title>
+          <link>https://gbria.github.io/cibergeta/</link>
+          <description>Noticias de actualidad</description>
+          <language>es</language>
+              <item>
+                  <title>Noticia de actualidad 1</title>
+                  <link></link>
+                  <description>Noticia 1</description>
+              </item>
+              <item>
+                  <title>Noticia de actualidad</title>
+                  <link></link>
+                  <description>La noticia</description>
+              </item>
+              <item>
+                  <title>Noticia de actualidad</title>
+                  <link></link>
+                  <description>La noticia</description>
+              </item>
+    </channel>
+</rss>
