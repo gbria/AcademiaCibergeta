@@ -4,6 +4,8 @@
         <title>Mi canal de RSS</title>
         <link>https://gbria.github.io/cibergeta/</link>
         <description>Noticias de actualidad</description>
+        <language>es</language>
+        <copyright>© 2022 Cibergeta. Todos los derechos reservados</copyright>
         <image>
             <url>http://www.w3ii.com/images/w3schools_green.jpg</url>
             <title>Academia Cibergeta</title>
@@ -30,6 +32,5 @@
             <link>https://hipertextual.com/2020/06/ps5-precio-fecha-lanzamiento-playstation-5-retraso</link>
             <description>El precio de las targetas gráficas</description>
         </item>
-        <copyright>2022 Refsnes Data as. Todos los derechos reservados.</copyright>
     </channel>
 </rss>
