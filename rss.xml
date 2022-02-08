@@ -6,36 +6,19 @@
         <description>Noticias de actualidad</description>
         <image>
             <url>https://gbria.github.io/cibergeta/img/imagenrss.jpg</url>
-            <title>Vandal</title>
-            <link>https://vandal.elespanol.com</link>
+            <title>Nuevos cursos en la academia Cibergeta</title>
+            <link>https://gbria.github.io/cibergeta</link>
         </image>
         <item>
             <title>Ciclos formativos en IES Caparrella</title>
-            <image>
-                <url>https://i.blogs.es/6f44dd/google-2015-1/450_1000.jpg</url>
-                <title>https://www.w3schools.com</title>
-                <link>https://www.w3schools.com</link>
-            </image>
             <link>http://iescaparrella.cat/ca/educacio/iescaparrella/fp-superior/t-3807</link>
             <description>Cursos de informática en IES Caparrella</description>
         </item>
         <item>
-            <title>Para qué sirve el RSSl</title>
-            <url>https://i.blogs.es/c31cad/50911687807_f38057b78f_k/1024_2000.jpg</url>
-            <link>http://es.geocities.com/rss_guia_facil/para_que_sirve_rss.html
-            </link>
-            <description>Visita la Guía Fácil del RSS y conoce para qué sirve el 
-            formato RSS</description>
-        </item>
-        <item>
-            <image>
-                <url>https://www.vandalimg.com/logo.gif</url>
-                <title>Vandal</title>
-                <link>https://vandal.elespanol.com</link>
-            </image>
             <title>Se retrasan nuevamente las PS5</title>
             <link>https://hipertextual.com/2020/06/ps5-precio-fecha-lanzamiento-playstation-5-retraso</link>
             <description>El precio de las targetas gráficas</description>
         </item>
+        <copyright>2022 Refsnes Data as. Todos los derechos reservados.</copyright>
     </channel>
 </rss>
