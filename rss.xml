@@ -4,6 +4,11 @@
         <title>Mi canal de RSS</title>
         <link>https://gbria.github.io/cibergeta/</link>
         <description>Noticias de actualidad</description>
+        <image>
+            <url>https://www.vandalimg.com/logo.gif</url>
+            <title>Vandal</title>
+            <link>https://vandal.elespanol.com</link>
+        </image>
         <item>
             <title>Ciclos formativos en IES Caparrella</title>
             <image>
