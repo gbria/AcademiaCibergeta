@@ -5,10 +5,21 @@
         <link>https://gbria.github.io/cibergeta/</link>
         <description>Noticias de actualidad</description>
         <image>
-            <url>https://gbria.github.io/cibergeta/img/imagenrss.jpg</url>
-            <title>Nuevos cursos en la academia Cibergeta</title>
+            <url>http://www.w3ii.com/images/w3schools_green.jpg</url>
+            <title>Academia Cibergeta</title>
+            <link>https://gbria.github.io/cibergeta/img/imagenrss.jpg</link>
+          </image>
+        <item>
+            <title>Nuevos cursos en la Academia Cibergeta</title>
             <link>https://gbria.github.io/cibergeta</link>
-        </image>
+            <description>Nuevos cursos en la academia de Cibergeta de Lleida</description>
+        </item>
+        <item>
+            <title>Nuevas targetas graficas</title>
+            <link>https://www.nvidia.com/es-es/geforce/</link>
+            <description>Ya han salido al mercado las nuevas targetas graficas</description>
+            
+        </item>
         <item>
             <title>Ciclos formativos en IES Caparrella</title>
             <link>http://iescaparrella.cat/ca/educacio/iescaparrella/fp-superior/t-3807</link>
