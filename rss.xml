@@ -6,15 +6,13 @@
         <description>Noticias de actualidad</description>
         <item>
             <title>Ciclos formativos en IES Caparrella</title>
+            <image>
+                <src>https://i.blogs.es/6f44dd/google-2015-1/450_1000.jpg</src>
+                <title>W3Schools.com</title>
+                <link>https://www.w3schools.com</link>
+            </image>
             <link>http://iescaparrella.cat/ca/educacio/iescaparrella/fp-superior/t-3807</link>
             <description>Cursos de informática en IES Caparrella</description>
-        </item>
-        <image>
-            <url>https://i.blogs.es/6f44dd/google-2015-1/450_1000.jpg</url>
-            <title>W3Schools.com</title>
-            <link>https://www.w3schools.com</link>
-        </image>
-        <item>
         </item>
         <item>
             <title>Para qué sirve el RSSl</title>
