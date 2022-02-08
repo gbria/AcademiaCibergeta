@@ -1,24 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-      <channel>
-          <title>Mi canal de RSS</title>
-          <link>https://gbria.github.io/cibergeta/</link>
-          <description>Noticias de actualidad</description>
-          <language>es</language>
-              <item>
-                  <title>Noticia de actualidad 1</title>
-                  <link></link>
-                  <description>Noticia 1</description>
-              </item>
-              <item>
-                  <title>Noticia de actualidad</title>
-                  <link></link>
-                  <description>La noticia</description>
-              </item>
-              <item>
-                  <title>Noticia de actualidad</title>
-                  <link></link>
-                  <description>La noticia</description>
-              </item>
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Mi canal de RSS</title>
+  <link href="https://gbria.github.io/cibergeta/"/>
+  <updated>2022-02-08T22:46:00Z</updated>
+  <author>
+    <name>German Bria</name>
+  </author>
+  <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+  <entry>
+    <title>Nuevos cursos en la Academia Cibergeta</title>
+    <link href="https://gbria.github.io/cibergeta"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2022-02-08T22:46:00Z</updated>
+  </entry>
+
+  <entry>
+    <title>Nuevas targetas graficas</title>
+    <link href="https://www.nvidia.com/es-es/geforce/"/>
+    <id>urn:uuid:1225c695-gf69-4ebb-aaaa-80da344efa6a</id>
+    <updated>2022-02-08T22:46:00Z</updated>
+  </entry>
+
+  <entry>
+    <title>Ciclos formativos en IES Caparrella</title>
+    <link href="http://iescaparrella.cat/ca/educacio/iescaparrella/fp-superior/t-3807"/>
+    <id>urn:uuid:1225c695-f474-4ebb-aaaa-80da344efa6a</id>
+    <updated>2022-02-08T22:46:00Z</updated>
+  </entry>
+
+  <entry>
+    <title>Se retrasan nuevamente las PS5</title>
+    <link href="https://hipertextual.com/2020/06/ps5-precio-fecha-lanzamiento-playstation-5-retraso"/>
+    <id>urn:uuid:1225c695-de33-4ebb-aaaa-80da344efa6a</id>
+    <updated>2022-02-08T22:46:00Z</updated>
+  </entry>
+
+</feed>
