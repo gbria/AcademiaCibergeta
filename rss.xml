@@ -9,14 +9,13 @@
             <link>http://iescaparrella.cat/ca/educacio/iescaparrella/fp-superior/t-3807</link>
             <description>Cursos de informática en IES Caparrella</description>
         </item>
+        <image>
+            <url>https://i.blogs.es/6f44dd/google-2015-1/450_1000.jpg</url>
+            <title>W3Schools.com</title>
+            <link>https://www.w3schools.com</link>
+        </image>
         <item>
-            <image>
-                <url>https://i.blogs.es/6f44dd/google-2015-1/450_1000.jpg</url>
-                <title>W3Schools.com</title>
-                <link>https://www.w3schools.com</link>
-            </image>
         </item>
-        
         <item>
             <title>Para qué sirve el RSSl</title>
             <url>https://i.blogs.es/c31cad/50911687807_f38057b78f_k/1024_2000.jpg</url>
@@ -24,7 +23,7 @@
             </link>
             <description>Visita la Guía Fácil del RSS y conoce para qué sirve el 
             formato RSS</description>
-          </item>
+        </item>
         <item>
             <image>
                 <url>https://www.vandalimg.com/logo.gif</url>
